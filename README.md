@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+Modified from the tutorial by Travis media, https://youtu.be/wqhNoDE6pb4
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
